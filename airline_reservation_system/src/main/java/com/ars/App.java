@@ -19,7 +19,7 @@ import com.ars.serviceImpl.PassengerServiceImpl;
 
 /*
 ======================================== AIRLINE RESERVATION SYSTEM PROJECT======================================
-											Author: Arpan Sadhukhan
+											Author: Srijani Sinha
 */
 
 
